@@ -1,0 +1,65 @@
+.body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: Regular; 
+    font-size: 16px; 
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+.h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 56px;
+    letter-spacing: 2%;
+    line-height: 60px;
+}
+
+.h2 {
+    font-family: 'Roboto', sans-serif;
+        font-weight: bold;
+        font-size: 36px;
+        letter-spacing: 2%;
+}
+
+.h3 {
+    font-family: 'Roboto', sans-serif;
+        font-weight: medium;
+        font-size: 20px;
+        letter-spacing: 2%;
+}
+
+.button-text {
+    font-family: 'Roboto', sans-serif;
+        font-weight: medium;
+        font-size: 16px;
+        letter-spacing: 4%;
+        line-height: 24px;
+}
+
+.logo-link {
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    letter-spacing: 3%;
+    color: #2E2F42;
+    text-transform: uppercase;
+}
+
+.ul {
+    list-style-type: none;
+}
+
+.nav-adress-item {
+    text-decoration: none;
+    }
+
+.nav-item {
+    text-decoration: none;
+}
+
+.web-logo {
+    color: #4D5AE5;
+    text-transform: uppercase;
+}
