@@ -20,7 +20,7 @@
     font-family: 'Roboto', sans-serif;
         font-weight: medium;
         font-size: 20px;
-        letter-spacing: 2%;
+        letter-spacing: 0.02em;
 }
 
 .ul {
@@ -120,6 +120,31 @@
 .team-section {
     background-color: #F4F4FD;
 }
+
+/* features */
+
+.h3-features {
+    font-family: 'Roboto', sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+/* team section */
+
+.h2-team-section {
+    font-family: 'Roboto', sans-serif;
+        font-weight: 500;
+        font-size: 36px;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+        text-align: center;
+        line-height: 1.11;
+        text-transform: capitalize;
+}
+
+
 
 /* footer */
 
