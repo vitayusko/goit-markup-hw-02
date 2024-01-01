@@ -33,13 +33,10 @@
     letter-spacing: 0.02em;
     color: #434455;
     }
-.nav-adress-item:hover {
+.nav-adress-item:hover, .nav-adress-item:focus {
     color: #404bbf;
     }
     
-.nav-adress-item:focus {
-    color: #404bbf;
-    }
 
 .nav-item {
     text-decoration: none;
