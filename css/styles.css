@@ -101,11 +101,11 @@
         cursor: pointer
 }
 
-.button :hover {
+.button:hover {
     background-color: #404BBF
 }
 
-.button :focus {
+.button:focus {
     background-color: #404BBF
 }
 
@@ -113,6 +113,12 @@
 
 .paragrapf {
     letter-spacing: 0.02em
+}
+
+/* team-section */
+
+.team-section {
+    background-color: #F4F4FD;
 }
 
 /* footer */
