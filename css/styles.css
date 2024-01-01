@@ -57,6 +57,16 @@
 
 .nav-adress-item {
     text-decoration: none;
+    font-style: normal;
+    letter-spacing: 0.02em;
+    color: #434455;
+    }
+.nav-adress-item:hover {
+    color: #404bbf;
+    }
+    
+.nav-adress-item:focus {
+    color: #404bbf;
     }
 
 .nav-item {
@@ -68,11 +78,7 @@
 }
 
 .studio {
-    color: #4D5AE5;
+    color: #2e2f42;
     text-transform: uppercase;
 }
 
-.adress {
-    font-style: normal
-    letter-spacing: 0.02em;
-}
