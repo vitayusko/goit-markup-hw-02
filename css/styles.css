@@ -8,16 +8,6 @@
     background-color: #FFFFFF;
 }
 
-.h1-top-section {
-    font-family: 'Roboto', sans-serif;
-    font-weight: bold;
-    font-size: 56px;
-    letter-spacing: 0.02em;
-    line-height: 1.07;
-    color: #FFFFFF;
-    text-align: center
-}
-
 .h2 {
     font-family: 'Roboto', sans-serif;
         font-weight: 500;
@@ -88,6 +78,16 @@
 
 .top-section {
     background-color: #2e2f42;
+}
+
+.h1-top-section {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 56px;
+    letter-spacing: 0.02em;
+    line-height: 1.07;
+    color: #FFFFFF;
+    text-align: center
 }
 
 .button {
