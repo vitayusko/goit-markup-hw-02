@@ -33,7 +33,8 @@
     letter-spacing: 0.02em;
     color: #434455;
     }
-.nav-adress-item:hover, .nav-adress-item:focus {
+.nav-adress-item:hover, 
+.nav-adress-item:focus {
     color: #404bbf;
     }
     
@@ -45,6 +46,11 @@
     letter-spacing: 0.02em;
     line-height: 1.5;
     color: #2e2f42;
+}
+
+.nav-item:hover,
+.nav-item:focus {
+    color: #404bbf;
 }
 
 .address {
