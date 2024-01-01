@@ -43,8 +43,12 @@
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
     letter-spacing: 3%;
-    color: #2E2F42;
+    color: #4d5ae5;
     text-transform: uppercase;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em
+
 }
 
 .ul {
@@ -57,9 +61,18 @@
 
 .nav-item {
     text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: #404bbf;
 }
 
-.web-logo {
+.studio {
     color: #4D5AE5;
     text-transform: uppercase;
+}
+
+.adress {
+    font-style: normal
+    letter-spacing: 0.02em;
 }
