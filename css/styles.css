@@ -148,6 +148,16 @@ font-family: 'Roboto', sans-serif;
     color: #2e2f42;
 }
 
+.li-team-section {
+    background-color: #FFFFFF
+}
+
+/* portfolio-section */
+
+.h3-portfolio-section {
+    font-weight: 500;
+    color: #2e2f42;
+}
 
 /* footer */
 
@@ -163,3 +173,4 @@ font-family: 'Roboto', sans-serif;
 .studio-footer {
     color: #f4f4fd;
 }
+
